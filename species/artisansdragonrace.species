@@ -1,0 +1,282 @@
+{
+  "kind" : "artisansdragonrace",
+	"charCreationTooltip" : {
+	"title" : "artisansdragonrace",
+	"subTitle" : "O2",
+	"description" : "Two young dragons that found themselves in another universe while exploring the various Portals in the Dragon Realm."
+  },
+  "nameGen" : [ "/species/artisansdragonracemalenamegen.config:names", "/species/artisansdragonracefemalenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/artisansdragonracehurt_male1.ogg", "/sfx/humanoid/artisansdragonracehurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Scale color", "---", "---", "Clothes", "Eye color", "Wing and chest color", "---", "Clothes color", "Spyro and Cynder", "Pose" ],
+  "skull" : "/humanoid/artisansdragonrace/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+	
+  // Empty Hands
+      { "item" : "flagartisansdragonrace" },
+	  { "item" : "flighttech" },
+	    
+// Anvil
+      { "item" : "humantier1head" },
+      { "item" : "humantier1chest" },
+      { "item" : "humantier1pants" },
+      { "item" : "humantier2head" },
+      { "item" : "humantier2chest" },
+      { "item" : "humantier2pants" },
+      { "item" : "artisansdragonracesword" },
+      { "item" : "ironshortsword" },
+      { "item" : "ironbroadsword" },
+      { "item" : "tungstenaxe" },
+      { "item" : "tungstenhammer" },
+// Anvil2
+      { "item" : "humantier3head" },
+      { "item" : "humantier3chest" },
+      { "item" : "humantier3pants" },
+      { "item" : "humantier4head" },
+      { "item" : "humantier4chest" },
+      { "item" : "humantier4pants" },
+      { "item" : "titaniumdagger" },
+      { "item" : "titaniumspear" },
+      { "item" : "durasteelbroadsword" },
+      { "item" : "durasteelshortsword" },
+// Anvil3
+      { "item" : "humantier5ahead" },
+      { "item" : "humantier5achest" },
+      { "item" : "humantier5apants" },
+      { "item" : "humantier6ahead" },
+      { "item" : "humantier6achest" },
+      { "item" : "humantier6apants" },
+      { "item" : "humantier5mhead" },
+      { "item" : "humantier5mchest" },
+      { "item" : "humantier5mpants" },
+      { "item" : "humantier6mhead" },
+      { "item" : "humantier6mchest" },
+      { "item" : "humantier6mpants" },
+      { "item" : "humantier5shead" },
+      { "item" : "humantier5schest" },
+      { "item" : "humantier5spants" },
+      { "item" : "humantier6shead" },
+      { "item" : "humantier6schest" },
+      { "item" : "humantier6spants" },
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+// Furniture Table 2
+      { "item" : "humanstoragelocker" },
+      { "item" : "artisansdragonraceshipdoor" },
+      { "item" : "artisansdragonraceshiphatch" },
+// Spinning Wheel
+      { "item" : "artisansdragonraceclothadornments" },
+      { "item" : "artisansdragonraceblankchest" },
+      { "item" : "artisansdragonracegoldadornments" },
+      { "item" : "artisansdragonracegoldpiercings" },
+      { "item" : "artisansdragonracepiercings" }
+	  ]
+  },
+  
+  "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : true,
+  "altOptionAsHairColor" : true,
+  "hairColorAsBodySubColor" : true,
+  "genders" : [
+    {
+       "name" : "male",
+      "image" : "/interface/title/artisansdragonracemaleico.png",
+      "characterImage" : "/interface/title/artisansdragonracemale.png",
+      "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13", "male14", "male15", "male16", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male27", "male28", "male29", "male30", "male31", "male32", "male33", "male34", "male35", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male47", "male48", "male49", "male50", "male51", "male52", "male53", "male54", "male55", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "male63", "male64" ],
+      "shirt" : [ "artisansdragonraceblankchest" ],
+      "pants" : [ "artisansdragonraceclothadornments", "artisansdragonracegoldadornments", "artisansdragonracegoldpiercings", "artisansdragonracepiercings", "artisansdragonraceblanklegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/artisansdragonracefemico.png",
+      "characterImage" : "/interface/title/artisansdragonracefemale.png",
+      "hair" : [ "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10", "fem11", "fem12", "fem13", "fem14", "fem15", "fem16", "fem17", "fem18", "fem19", "fem20", "fem21", "fem22", "fem23", "fem24", "fem25", "fem26", "fem27", "fem28", "fem29", "fem30", "fem31", "fem32", "fem33", "fem34", "fem35", "fem36", "fem37", "fem38", "fem39", "fem40", "fem41", "fem42", "fem43", "fem44", "fem45", "fem46", "fem47", "fem48", "fem49", "fem50", "fem51", "fem52", "fem53", "fem54", "fem55", "fem56", "fem57", "fem58", "fem59", "fem60", "fem61", "fem62", "fem63", "fem64" ],
+      "shirt" : [ "artisansdragonraceblankchest" ],
+      "pants" : [ "artisansdragonraceclothadornments", "artisansdragonracegoldadornments", "artisansdragonracegoldpiercings", "artisansdragonracepiercings", "artisansdragonraceblanklegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+	//Cynder ANB
+	{ "828599" : "828599", "363B5A" : "363B5A", "282D4E" : "282D4E", "191E41" : "191E41", "0A122E" : "0A122E" },
+	//Cynder DotD
+	{ "828599" : "C3A1CA", "363B5A" : "422D74", "282D4E" : "25194F", "191E41" : "160A35", "0A122E" : "0D042E" },
+	//Cyril
+	{ "828599" : "F1FBFF", "363B5A" : "677DC8", "282D4E" : "315994", "191E41" : "2C3A7E", "0A122E" : "141D4C" },
+	//Ember
+	{ "828599" : "F9A0A0", "363B5A" : "DC6162", "282D4E" : "A74949", "191E41" : "933537", "0A122E" : "801B24" },
+	//Flame
+	{ "828599" : "F66763", "363B5A" : "CC2B34", "282D4E" : "A81E28", "191E41" : "79111B", "0A122E" : "690007" },
+	//Ignitus
+	{ "828599" : "FFCA96", "363B5A" : "FF8826", "282D4E" : "B52B00", "191E41" : "882108", "0A122E" : "4A0A00" },
+	//Malefor
+	{ "828599" : "AA749A", "363B5A" : "623655", "282D4E" : "4D1739", "191E41" : "310E21", "0A122E" : "260817" },
+	//Spyro
+	{ "828599" : "CCA3FF", "363B5A" : "AE74F3", "282D4E" : "9D5DE9", "191E41" : "8747D5", "0A122E" : "6B39B7" },
+	//Terrador
+	{ "828599" : "6BE3B1", "363B5A" : "418464", "282D4E" : "2F5441", "191E41" : "153825", "0A122E" : "0D2114" },
+	//The Chronicler
+	{ "828599" : "A3D0C3", "363B5A" : "75D9C7", "282D4E" : "40C4AA", "191E41" : "0E866E", "0A122E" : "143A2D" },
+	//Volteer
+	{ "828599" : "FBE188", "363B5A" : "E2B42B", "282D4E" : "B57A13", "191E41" : "764F0C", "0A122E" : "3E2F17" },
+	//Dark Aether
+	{ "828599" : "897DD3", "363B5A" : "494382", "282D4E" : "13142A", "191E41" : "090715", "0A122E" : "020204" },
+	//Me! :D
+	{ "828599" : "250047", "363B5A" : "3F3F3F", "282D4E" : "212121", "191E41" : "141414", "0A122E" : "000000" },
+	//
+    { "828599" : "ab8c77", "363B5A" : "86644a", "282D4E" : "684431", "191E41" : "40271d", "0A122E" : "281912" },
+    { "828599" : "c5ad98", "363B5A" : "a47a59", "282D4E" : "865d40", "191E41" : "66412e", "0A122E" : "3D271C" },
+    { "828599" : "e1b98d", "363B5A" : "c88959", "282D4E" : "9e6a4d", "191E41" : "784930", "0A122E" : "4F2F1F" },
+    { "828599" : "c9b181", "363B5A" : "ac8348", "282D4E" : "87633f", "191E41" : "694c31", "0A122E" : "443120" },
+    { "828599" : "e8cebc", "363B5A" : "cfa97d", "282D4E" : "ae774b", "191E41" : "804e34", "0A122E" : "593624" },
+    { "828599" : "f4e0ba", "363B5A" : "e9b768", "282D4E" : "c18f54", "191E41" : "a2683d", "0A122E" : "7C4F2F" },
+    { "828599" : "ffe9d3", "363B5A" : "ffc181", "282D4E" : "d39c6c", "191E41" : "b97551", "0A122E" : "84533A" },
+    { "828599" : "fbe1d4", "363B5A" : "f6baa2", "282D4E" : "cc9582", "191E41" : "ac7261", "0A122E" : "754D42" },
+    { "828599" : "fff7ec", "363B5A" : "f9d3a9", "282D4E" : "d3a57c", "191E41" : "b37c5d", "0A122E" : "875C46" },
+    { "828599" : "fff6f6", "363B5A" : "f7d5d3", "282D4E" : "d1aaa1", "191E41" : "a27f70", "0A122E" : "685249" }
+  ],
+  "undyColor" : [
+	//Actually eye colors
+	//Cynder ANB
+	{"2FF0C8" : "2FF0C8", "2FCFF0" : "2FCFF0" },
+	//Cynder DotD
+	{"2FF0C8" : "5DD2B1", "2FCFF0" : "1E5749" },
+	//Cyril
+	{"2FF0C8" : "4593C6", "2FCFF0" : "21739C" },
+	//Ember
+	{"2FF0C8" : "1B7990", "2FCFF0" : "0E555F" },
+	//Flame
+	{"2FF0C8" : "6F333A", "2FCFF0" : "3D0E19" },
+	//Ignitus
+	{"2FF0C8" : "BC5B1C", "2FCFF0" : "9B4110" },
+	//Malefor
+	{"2FF0C8" : "F8DC5F", "2FCFF0" : "D39B2F" },
+	//Spyro
+	{"2FF0C8" : "674CC5", "2FCFF0" : "424499" },
+	//Terrador
+	{"2FF0C8" : "3B8766", "2FCFF0" : "105333" },
+	//The Chronicler
+	{"2FF0C8" : "B2CDC4", "2FCFF0" : "7B9189" },
+	//Volteer
+	{"2FF0C8" : "978353", "2FCFF0" : "94774A" },
+	//Dark Aether
+	{"2FF0C8" : "FFFFFF", "2FCFF0" : "FFFFFF" },
+	//Me! :D
+	{"2FF0C8" : "2E75D5", "2FCFF0" : "FBFB00" },
+	//
+    {"2FF0C8" : "395187", "2FCFF0" : "20325b" },
+    {"2FF0C8" : "6c2f90", "2FCFF0" : "471962" },
+    {"2FF0C8" : "9b2724", "2FCFF0" : "6a1210" },
+    {"2FF0C8" : "b47020", "2FCFF0" : "834a0c" },
+    {"2FF0C8" : "a8a614", "2FCFF0" : "848008" },
+    {"2FF0C8" : "45902f", "2FCFF0" : "296219" },
+    {"2FF0C8" : "363636", "2FCFF0" : "111111" },
+    {"2FF0C8" : "979797", "2FCFF0" : "6f6f6f" },
+    {"2FF0C8" : "6e6e6e", "2FCFF0" : "434343" },
+    {"2FF0C8" : "d355c1", "2FCFF0" : "b72c95" }
+  ],
+  "hairColor" : [
+	//Actually crest & wing colors
+	//Cynder ANB
+	{ "C43462" : "C43462", "A5244D" : "A5244D", "751737" : "751737" },
+	//Cynder DotD
+	{ "C43462" : "FC5D9D", "A5244D" : "CF346D", "751737" : "892442" },
+	//Cyril
+	{ "C43462" : "B99EFC", "A5244D" : "5C3EAF", "751737" : "301973" },
+	//Ember
+	{ "C43462" : "B29C7A", "A5244D" : "987B53", "751737" : "946533" },
+	//Flame
+	{ "C43462" : "CAB29F", "A5244D" : "997048", "751737" : "7B4B30" },
+	//Ignitus
+	{ "C43462" : "FFCB9B", "A5244D" : "F2882E", "751737" : "DF4605" },
+	//Malefor
+	{ "C43462" : "C7A894", "A5244D" : "745234", "751737" : "281A11" },
+	//Spyro
+	{ "C43462" : "F8EA69", "A5244D" : "F4B438", "751737" : "FFC231" },
+	//Terrador
+	{ "C43462" : "D39A72", "A5244D" : "824525", "751737" : "4C1E04" },
+	//The Chronicler
+	{ "C43462" : "7A93B2", "A5244D" : "33587E", "751737" : "0A3256" },
+	//Volteer
+	{ "C43462" : "342D59", "A5244D" : "1E1442", "751737" : "140E27" },
+	//Dark Aether
+	{ "C43462" : "FBB737", "A5244D" : "A54713", "751737" : "3F0104" },
+	//Me! :D
+	{ "C43462" : "2F0B4F", "A5244D" : "250047", "751737" : "130026" },
+	//
+    //LIGHT RED
+    { "C43462" : "E86D46", "A5244D" : "D1422E", "751737" : "96201B" },
+    //RED
+    { "C43462" : "CD1C38", "A5244D" : "982441", "751737" : "69243F" },
+    //DARK RED
+    { "C43462" : "ad2716", "A5244D" : "8f1f1b", "751737" : "731a1a" },
+    //RUSTY RED
+    { "C43462" : "BE471B", "A5244D" : "9B2F0C", "751737" : "702710" },
+    //BROWN
+    { "C43462" : "7d3c1c", "A5244D" : "4d240b", "751737" : "2d1606" },
+    //LIGHT BROWN
+    { "C43462" : "7f5a39", "A5244D" : "5b3523", "751737" : "3b1f15" },
+    //DIRTY ORANGE
+    { "C43462" : "a6671d", "A5244D" : "915622", "751737" : "743e1d" },
+    //ORANGE
+    { "C43462" : "efa838", "A5244D" : "be6d1d", "751737" : "834012" },
+    //DIRTY BLONDE
+    { "C43462" : "eaa758", "A5244D" : "cd8b3d", "751737" : "93682c" },
+    //YELLOW
+    { "C43462" : "e6e756", "A5244D" : "c7ac3f", "751737" : "a9882f" },
+    //BLONDE
+    { "C43462" : "f1d992", "A5244D" : "daba5e", "751737" : "b59a4d" },
+    //LIGHT YELLOW
+    { "C43462" : "f2eba3", "A5244D" : "dcd28c", "751737" : "c2b677" },
+    //LIGHT GREEN
+    { "C43462" : "A7D13D", "A5244D" : "83AD22", "751737" : "6B880B" },
+    //GREEN
+    { "C43462" : "4ece61", "A5244D" : "34ae47", "751737" : "228a38" },
+    //DARK GREEN
+    { "C43462" : "3b7f44", "A5244D" : "2e6a38", "751737" : "1d4b28" },
+    //TORQUOISE
+    { "C43462" : "5BD5B6", "A5244D" : "4AA9AD", "751737" : "237082" },
+    //LIGHT TURQUOISE
+    { "C43462" : "49E193", "A5244D" : "3BA380", "751737" : "197C81" },
+    //LIGHT BLUE
+    { "C43462" : "61BCDE", "A5244D" : "5381CC", "751737" : "2C489E" },
+    //BLUE
+    { "C43462" : "5d8bc7", "A5244D" : "4d55b0", "751737" : "2e2a73" },
+    //DARK BLUE
+    { "C43462" : "425879", "A5244D" : "343965", "751737" : "242247" },
+    //DARK PURPLE
+    { "C43462" : "7f3b6d", "A5244D" : "6a2e53", "751737" : "4b1d30" },
+    //PURPLE
+    { "C43462" : "653b7f", "A5244D" : "562e6a", "751737" : "3f1d4b" },
+    //HOT PINK
+    { "C43462" : "cd72d9", "A5244D" : "ac4da6", "751737" : "913b86" },
+    //PINK
+    { "C43462" : "D26BA4", "A5244D" : "A54669", "751737" : "89334D" },
+    //LIGHT PURPLE
+    { "C43462" : "ad68e2", "A5244D" : "8d41b0", "751737" : "6a2980" },
+    //BROWN GREY
+    { "C43462" : "50422f", "A5244D" : "36261e", "751737" : "170f0d" },
+    // DARK GREY
+    { "C43462" : "525252", "A5244D" : "363636", "751737" : "161616" },
+    // GREY
+    { "C43462" : "74726f", "A5244D" : "53504d", "751737" : "2a251e" },
+    // GREY BLUE
+    { "C43462" : "6f6d85", "A5244D" : "525269", "751737" : "3e4352" },
+    // LIGHT GREY
+    { "C43462" : "b8b8b8", "A5244D" : "828282", "751737" : "555555" },
+    // WHITE
+    { "C43462" : "eaeaea", "A5244D" : "b8b8b8", "751737" : "828282" }
+  ]
+}
