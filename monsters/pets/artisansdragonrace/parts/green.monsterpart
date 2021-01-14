@@ -1,0 +1,9 @@
+{
+  "name" : "green",
+  "category" : "artisansdragonracepet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "green.png"
+  }
+}

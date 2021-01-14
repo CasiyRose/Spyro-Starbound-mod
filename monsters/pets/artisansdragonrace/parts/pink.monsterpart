@@ -1,0 +1,9 @@
+{
+  "name" : "pink",
+  "category" : "artisansdragonracepet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "pink.png"
+  }
+}

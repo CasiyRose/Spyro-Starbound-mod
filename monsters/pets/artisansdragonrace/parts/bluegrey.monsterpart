@@ -1,0 +1,9 @@
+{
+  "name" : "bluegrey",
+  "category" : "artisansdragonracepet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "bluegrey.png"
+  }
+}

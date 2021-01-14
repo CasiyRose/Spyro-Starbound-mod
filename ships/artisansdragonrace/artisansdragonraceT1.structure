@@ -1,0 +1,22 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "maxFuel" : 1000,
+      "crewSize" : 2
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "artisansdragonraceT1.png",
+      "position" : [8, 14],
+      "fullbright" : true
+    },
+    {
+      "image" : "artisansdragonraceT1lit.png",
+      "position" : [8, 14]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "artisansdragonraceT1blocks.png"
+}

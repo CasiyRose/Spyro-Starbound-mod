@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/artisansdragonrace",
+		"value" : {
+			"aiFrames" : "artisansdragonraceAI.png",
+			"portraitFrames" : "portraits/artisansdragonraceportrait.png",
+			"staticFrames" : "staticartisansdragonrace.png"	
+		}
+	}
+]

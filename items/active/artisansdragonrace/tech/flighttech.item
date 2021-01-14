@@ -1,0 +1,10 @@
+{
+  "itemName" : "flighttech",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "flighttech.png",
+  "image" : "flighttech.png",
+  "groups" : [ "flighttech" ],
+  "shortdescription" : "^purple;Flight^white; tech",
+  "description" : "Unlocks the ^purple;Flight^white; tech.",
+  "pickupQuestTemplates" : [ "flightquest" ]
+}
