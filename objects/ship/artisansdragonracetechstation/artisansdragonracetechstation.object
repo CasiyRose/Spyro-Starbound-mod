@@ -34,7 +34,7 @@
     "/objects/spawner/techstation.lua"
   ],
   "scriptDelta" : 20,
-  "shipPetType" : "petbunny",
+  "shipPetType" : "artisansdragonracepet",
   "spawnOffset" : [2, -1],
   "chatPortrait" : "/ai/portraits/artisansdragonraceportrait.png:yell.1",
   "dialog" : {
