@@ -1,0 +1,46 @@
+{
+  "objectName" : "flagartisansdragonrace",
+  "colonyTags" : ["artisansdragonrace"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "teleporter",
+  "category" : "teleportMarker",
+  "price" : 70,
+  "radioMessagesOnPickup" : [ "pickupflag" ],
+  
+  "description" : "A crystal dragon statue, reminiscent of the Artisans homeworld. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "shortdescription" : "Crystal Dragon",
+  "race" : "artisansdragonrace",
+  "apexDescription" : "A crystalized dragon. It shakes with some unknown power!",
+  "avianDescription" : "I wonder if I should touch this crystal dragon?",
+  "floranDescription" : "Thiss ssstone lizard doessn't sssseem edible.",
+  "glitchDescription" : "Curious. This crystal appears to be resting atop a teleportation pad.",
+  "humanDescription" : "I wonder what happens if I step on the pad underneath this statue?",
+  "hylotlDescription" : "This crystal dragon seems to act as some sort of waypoint for teleportation.",
+  "novakidDescription" : "This here dragon looks like a good landmark for easy teleportin'!",
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+  "inventoryIcon" : "flagartisansdragonraceicon.png",
+  "orientations" : [
+    {
+      "image" : "flagartisansdragonrace.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-17, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "flagartisansdragonrace.png:<color>.<frame>",
+      "direction" : "right",
+      "imagePosition" : [1, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+  //"soundEffect" : "/sfx/objects/flag_flap_loop.ogg"
+}

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/artisansdragonrace",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/artisansdragonrace",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

@@ -1,0 +1,18 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 1 },
+    { "item" : "fabric", "count" : 20 }
+  ],
+  "output" : {
+    "item" : "flagartisansdragonrace",
+    "count" : 1
+  },
+  "input" : [
+    { "item" : "money", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "flighttech",
+    "count" : 1
+  },
+  "groups" : [ "plain", "all" ]
+}

@@ -1,0 +1,39 @@
+{
+  "id" : "flightquest",
+  "title" : "^purple;Dragon Flight",
+  "text" : "Unlock ^purple;flying^white; tech",
+  "completionText" : "^purple;Flying^white; tech unlocked!",
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : {
+        "portrait" : [ {"image" : "/assetmissing.png.png"} ],
+        "title" : "^purple;Dragon Flight"
+      },
+      "questComplete" : {
+        "portrait" : [ {"image" : "/assetmissing.png.png"} ],
+        "title" : "^purple;Dragon Flight"
+      }
+    },
+
+    "turnInDescription" : "Unlock the ^purple;flying^white; tech.",
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "flighttech",
+        "count" : 1,
+        "consume" : false
+      }
+    ],
+
+    // Completion actions
+    "showTech" : [
+      "flight"
+    ],
+    "equipTech" : [
+      "flight"
+    ]
+  }
+}
