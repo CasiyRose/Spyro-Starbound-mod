@@ -1,0 +1,455 @@
+[
+  {
+  
+    "op": "add",
+    "path": "/converse/artisansdragonrace",
+    "value": {
+      "default": [
+        "Hello",
+        "Have you seen a shiny, glowing mirror-like thing around here?",
+        "Nice to meet you!",
+        "Do you know how I got here?",
+        "Hmm?"
+      ],
+      "apex": [
+        "Ah, you're hairy! You look like you're from Avalar.",
+        "You look kinda like Hunter. Are you related?",
+        "Your rules are strict...",
+        "You look soft.",
+        "How do you survive without scales?",
+        "Do you use magic too?",
+        "You smell kinda like how sheep do.",
+        "You're like a human? What's that?",
+        "You're like a tall mole, just with more hair. And better eyesight."
+      ],
+      "avian": [
+        "Aren't birds supposed to have wings?",
+        "What is a Kluex?",
+        "What is a god?",
+        "You smell like a chicken...",
+        "How do you survive without scales?",
+        "What happened to your wings?",
+        "So do you eat seeds and grains like birds do?",
+        "You look soft.",
+        "Your feet look similar to mine.",
+        "Sure, tell me about Kluex.",
+        "Religion? What's that?"
+      ],
+      "floran": [
+        "You have sharp teeth for a plant!",
+        "Are you a Frogweed?",
+        "You hiss a lot. Is it hard to talk?",
+        "Can you do photosynthesis?",
+        "I remember when Sparx was eaten by that Frogweed.",
+        "Why do you hate fire?",
+        "How do you reproduce? Eggs? Seeds?",
+        "I won't burn you, I promise!",
+        "How do you survive without scales?"
+      ],
+      "human": [
+        "Hello, what are you?",
+        "You guys are so fleshy and soft and vulnerable.",
+        "What? I look familiar to you? Well I've never seen you before.",
+        "So you're like an Apex just without all the body hair.",
+        "I can't imagine how easy it is to be scratched without scales...",
+        "Oh? Earth? I'm sorry about what happened to it.",
+        "Earth sounds a lot like where I'm from...",
+        "Did Earth have floating islands? No? You really missed out.",
+        "You should come visit us some time in the Dragon Realms!"
+      ],
+      "hylotl": [
+        "Oh! You look like a fish!",
+        "I wonder what you would think of the Dragon Realms...",
+        "How do you keep eggs warm in water?",
+        "Do you ever get food stuck in your gills?",
+        "So what do you guys eat?",
+        "I like your underwater structures.",
+        "So is a library like the Chronicler's place?",
+        "How do you survive without scales?",
+        "You would hate Dante's Freezer."
+      ],
+      "artisansdragonrace": [
+        "Have you found the portal yet?",
+        "So what species is your favorite?",
+        "Your scales look nice.",
+        "Hey.",
+        "Are you feeling alright? Hopefully we can go home soon...",
+        "How's your dragonfly doing? I hope they're healthy!",
+        "Sorry if Sparx said something rude to you.",
+        "Have you found any spirit gems?",
+        "Well, I don't miss Moneybags. Do you?",
+        "Their worlds are so familiar, yet so alien. Wouldn't you agree?"
+      ],
+      "glitch": [
+        "You're entirely metal! How are you 'living'?",
+        "You speak funny, are you okay?",
+        "Can you divide by zero?",
+        "You're so shiny!",
+        "Sparx said you look like walking armor.",
+        "You have no scent at all, strange."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/converse/apex/artisansdragonrace",
+    "value":[
+        "Hello. May I run tests on you?",
+        "I've never seen one of you before.",
+        "Short scaly creature, you are.",
+        "Don't cause any trouble and we'll be fine.",
+        "Big Ape is watching.",
+        "Magic? There's no such thing as magic.",
+        "How is something so primitive as you able to talk?",
+        "Have a nice visit...",
+        "Ah, I've only seen one other of you before, are you an endangered species?",
+        "Here, let me squish that bug that's following you.",
+        "I don't have time to talk, sorry.",
+        "...",
+        "Why are you here? Have you come to make trouble?",
+        "So...what are you?"
+      ]
+
+  },
+  {
+    "op": "add",
+    "path": "/converse/avian/artisansdragonrace",
+    "value":[
+        "Hello.",
+        "You look blessed by Kluex, are you here to cleanse the Grounded?",
+        "What are you?",
+        "Let me get that bug following you.",
+        "May I interest you in praying at our temple?",
+        "Magic? No, only acts of Kluex exist.",
+        "I wish I had wings like yours.",
+        "You look like an ankle-biter.",
+        "May I use some of your scales in a tapestry?",
+        "Whose pet is this? Oh! You can talk!",
+        "Glowing mirror? Never seen one.",
+        "How do you feel about religion?",
+        "Look at those claws, they're even sharper than my talons!"
+      ]
+
+  },
+  {
+    "op": "add",
+    "path": "/converse/hylotl/artisansdragonrace",
+    "value":[
+        "Please have a peaceful vist, we wish your time is pleasant here.",
+        "May I help you? You seem new to town.",
+        "Hmm, what exactly are you?",
+        "You seem quite powerful, may I ask from where do you come?",
+        "What kind of books do you have?",
+        "Magic? That only exists in fairy tales.",
+        "I will say, your scales look incredible, can I have some?",
+        "I hope you will find it here to your liking.",
+        "Greetings, small one. Would you care to learn about our architecture?",
+        "You have tapestries too? May I buy one from you?",
+        "Such shiny scales, I would love to add them to my scrapbook.",
+        "What kinds of weaponry do you use? Magic? No, I mean real weapons.",
+        "Did you come from an ocean as well? You look like an aquatic lizard.",
+        "Good day to you!"
+      ]
+
+  },
+  {
+    "op": "add",
+    "path": "/converse/human/artisansdragonrace",
+    "value":[
+        "Sick wings bruh, can you fly with those?",
+        "Hmm, you're a dragon? Truly an honor to meet you.",
+        "Are your horns real? Can you break things with those?",
+        "If you attack any of us, I promise you you'll regret it.",
+        "Hey dude, can I have a scale? It would be a sick souvenir.",
+        "You look like something from a game I used to play...",
+        "Please don't come too close, I'm afraid of reptiles.",
+        "What's with your feet? They look weird.",
+        "Magic? That's only in story books!",
+        "I love reptiles! Can I pet you?",
+        "Like, how do you hold things?",
+        "Why don't you go bathe in the sun, reptile.",
+        "I like your scales. Can I touch them?"
+      ]
+
+  },
+  {
+    "op": "add",
+    "path": "/converse/floran/artisansdragonrace",
+    "value":[
+        "Can lizard fly?",
+        "Floran hatess fire.",
+        "Do not anger Floran, there are many of usss.",
+        "You lay eggsss? Can Floran eat sssome?",
+        "HISSSSSS!",
+        "No burn Floran. Floran no ssstab lizard.",
+        "What isss magic?",
+        "Do not burn Floran.",
+        "You sssmell like fire. Floran isss ssscared of fire.",
+        "Floran saysss hello. Floran isss ssscared of fire lizard.",
+        "Floran thinksss hornsss are sspikey. Good for ssstabbing.",
+        "Floran meansss no trouble."
+      ]
+
+  },
+  {
+    "op": "add",
+    "path": "/converse/glitch/artisansdragonrace",
+    "value":[
+        "Fearful. A-Are you a demon?!",
+        "Peaceable. Please do have a nice day in our town.",
+        "Concerned. You look dangerous, please do not harm us.",
+        "Brave. You best not cause any trouble here, our swords have just been sharpened.",
+        "Cordial. Greetings extraterrestrial.",
+        "Confused. There is a bug following you.",
+        "Flirtatious. You and your scales are quite beautiful.",
+        "Curious. What are you?",
+        "Anxious. We do not speak of magic here.",
+        "Frightened. Please leave me alone.",
+        "Amused. Can you hold things with your tail?",
+        "Teasing. Come here little lizard."
+      ]
+
+  },
+  {
+    "op": "add",
+    "path": "/converse/novakid/artisansdragonrace",
+    "value":[
+        "Howdy pardner, what brings ye 'round these parts?",
+        "What are you?",
+        "You best not cause a ruckus 'round here, I'm a sharp shooter.",
+        "I seen one o' yer kind before. Not a common sight 'round here.",
+        "What in reptilian aviation?",
+        "Mmm! You'd cook good on a spit.",
+        "Why, you look mighty fine today.",
+        "What's a gun? Ya never seen one before??",
+        "You don't look like you use guns.",
+        "How can you hold yer things? You don' exactly have hands.",
+        "Do you want to have a barbecue? I'll invite my cous' and my ma, and my pa."
+      ]
+
+  },
+  {
+    "op": "add",
+    "path": "/greeting/apex/artisansdragonrace",
+    "value":[
+        "Uh, oh hello.. Hope you enjoy your vist..",
+        "Stay in line, little lizard.",
+        "We'll let you walk here, but don't do anything to make me regret it.",
+        "Hello. Stay in line, don't touch anything, don't talk to anyone.",
+        "Hello. I hope you won't do anything stupid.",
+        "Yes... greetings. Just leave me alone.",
+        "Why are you here?",
+        "Have a nice visit...",
+        "...",
+        "Stay in line.",
+        "Hey..."
+      ]
+
+  },
+  {
+    "op": "add",
+    "path": "/greeting/avian/artisansdragonrace",
+    "value": [
+        "Hello! Have a nice stay!",
+        "Greetings. I haven't seen your kind around very often.",
+        "H-hi. Please don't hurt me.",
+        "Hi, I've never seen your kind before.",
+        "You look exotic, where are you from?",
+        "Hello! I hope you have a great visit!",
+        "Greetings!",
+        "Please don't hurt me.",
+        "Nice to see you!",
+        "Hello."
+      ]
+
+  },
+  {
+    "op": "add",
+    "path": "/greeting/hylotl/artisansdragonrace",
+    "value":[
+        "Hello, friend.",
+        "Nice to see you!",
+        "Welcome!",
+        "Great to see you!",
+        "Hi.",
+        "How goes your day?",
+        "Hello!",
+        "I hope everything is well.",
+        "Greetings!"
+      ]
+
+  },
+  {
+    "op": "add",
+    "path": "/greeting/human/artisansdragonrace",
+    "value":[
+        "Waddup lizard bro!",
+        "Heeeey!",
+        "Like, hi, and like you look, like, totally weird.",
+        "Wassup.",
+        "Hi.",
+        "Hey, are you a draogn?",
+        "You're a lot smaller than I expected.",
+        "NOPE!",
+        "Hello. So like, don't attack us or anything."
+      ]
+
+  },
+  {
+    "op": "add",
+    "path": "/greeting/floran/artisansdragonrace",
+    "value":[
+        "Floran saysss hi.",
+        "Floran saysss greetingsss. Floran doesss not want ssscary fire lizard to hurt Floran.",
+        "Floran saysss hello.",
+        "Hello. Floran doesss not want trouble.",
+        "Floran thinksss you should leave."
+      ]
+
+
+  },
+  {
+    "op": "add",
+    "path": "/greeting/glitch/artisansdragonrace",
+    "value":[
+        "Fearful. H-hello!",
+        "Peaceable. Nice to see you.",
+        "Concerned. Greetings. I hope you mean no harm.",
+        "Curious. What are you doing here?",
+        "Cordial. Hello stranger.",
+        "Confused. What are you?",
+        "Worried. Hi. Do have a good stay."
+      ]
+
+  },
+  {
+    "op": "add",
+    "path": "/greeting/novakid/artisansdragonrace",
+    "value":  [
+        "Howdy!",
+        "Hello, pal!",
+        "Nice to see someone like you walkin' round' here.",
+        "I hope everythin' is goin' well.",
+        "Howdy, pal! What brings you round' here?",
+        "How goes everythin' pal?",
+        "Hello. Hope you not be causin' trouble."
+      ]
+
+  },
+
+  {  
+    "op":"add",
+    "path":"/greeting/artisansdragonrace",
+    "value": {  
+      "default":[  
+        "Hi.",
+        "Hi, I'm <selfname>. Nice to meet you.",
+        "Salutations. What species are you? Quite frankly, you look weird.",
+        "Hmm? What do you want?",
+        "Hmm? What do you need?",
+        "Oh! I've never seen one of you before.",
+        "I'm sorry, am I in the way? My bad.",
+        "I wish Hunter was here to meet you.",
+        "I wish Ignitus was here to meet you...",
+        "Hello new creature!",
+        "Hey.",
+        "Greetings.",
+        "Hm?",
+        "Oh, sorry, I didn't hear you. I was thinking about how to get home."
+      ],
+      "apex":[  
+        "Hello extra-hairy human.",
+        "Please don't poke me with sharp things.",
+        "No, I won't be a test subject.",
+        "Hi!",
+        "Hello.",
+        "Are you an Apex? Did I say it right?",
+        "Yes of course I can speak.",
+        "What's the Miniknog?",
+        "What?",
+        "What is it that you need?",
+        "Who's Big Ape?",
+        "Hi there!"
+      ],
+      "avian":[  
+        "Hello, bird.",
+        "Oh, do YOU know what a Kluex is?",
+        "I'm <selfname>, your feathers are quite enchanting.",
+        "Hi!",
+        "Hello!",
+        "Yes? Do you need something?",
+        "How are you?",
+        "Are you an Avian? Like, bird?",
+        "Oh, sorry if I scared you, I mean no harm!",
+        "You have pretty feathers.",
+        "What's up?"
+      ],
+      "floran":[  
+        "Hello, plant creature.",
+        "Are you a Frogweed?",
+        "Aaah! Frogweed!!",
+        "Are you choking on something? Sorry, you just sound weird.",
+        "Hi!",
+        "Do you need something?",
+        "Hello.",
+        "Hello I'm <selfname>, nice to meet you.",
+        "What?",
+        "Please don't eat me, I heard you guys do that."
+      ],
+      "human":[  
+        "Hey!",
+        "Hello. Are you a hairless Apex?",
+        "I look familiar? I don't think we've met before...",
+        "From Legend of what? Oh, I know a Spyro, but you must be mistaken.",
+        "Hi! Yes, I am a dragon. Why do you ask?",
+        "Hi scaleless thing!",
+        "Nice to meet you.",
+        "Hello!",
+        "Need something from us?",
+        "Yes?",
+        "Hello, have a nice day."
+      ],
+      "hylotl":[  
+        "Hello, ocean creature.",
+        "Hylytl? Hylotl? I said it right that time?",
+        "Hi, how is everything?",
+        "Greetings!",
+        "Oh, you don't have scales either!",
+        "Hi! No, we're not from an ocean.",
+        "Hello there. Everything is well?",
+        "Hey."
+      ],
+      "artisansdragonrace":[
+        "Welcome back.",
+        "Hello. Find it yet?",
+        "Be careful out there, some things aren't as friendly as others.",
+        "Greetings",
+        "Have you found any portals?",
+        "Good to see a friendly face.",
+        "Hi!",
+        "Hey. Your scales look nice today.",
+        "Hmm? What do you need?"
+      ],
+      "glitch": [
+        "Oh! A robot!",
+        "Please don't hurt me.",
+        "Hi.",
+        "Greetings",
+        "Oh, you're alive! I thought you were a statue!",
+        "Hi. It is strange speaking to a non-living thing.",
+        "Hello.",
+        "Hi...?"
+      ],
+      "novakid":[  
+        "Hello gaseous creature.",
+        "'Howdy'? What's that mean?",
+        "Nice to see you.",
+        "Hello. How are you a living being?",
+        "Hi!",
+        "Hello. Hey, I must ask, how can you even hold things? ",
+        "Hmm? Pistols? What are those?"
+      ]
+    }
+  }
+ 
+]

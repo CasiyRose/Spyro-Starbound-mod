@@ -1,0 +1,42 @@
+[  
+  {  
+    "op":"add",
+    "path":"/attack/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "You can't be here.",
+        "Something to sharpen my claws on!",
+        "I was taught to fight well, now die!.",
+        "Sorry, but I must kill you."
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/killedTarget/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "Target nutralized.",
+        "Gone at last.",
+        "It's dead, we're safe now.",
+        "That was good practice!",
+        "Why did you have to bother us?",
+        "Sorry but it had to be done.",
+        "Maybe someone will want the body?"
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/lostTarget/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "Yeah, leave us be!",
+        "Oh, it left. Good.",
+        "Are you trying to hide from me?",
+        "I can still smell you...",
+        "And don't come back!"
+      ]
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[  
+  {  
+    "op":"add",
+    "path":"/tagCriteria/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "Something's changed." 
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/enclosedArea/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "I don't like this trapped feeling.",
+        "I need more space than this..."
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/otherDeed/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "But I don't want to live with someone else.",
+        "Can't you put that in a different room?",
+        "Isn't this MY house though?",
+        "Am I the reason you're doing this?"
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/severe/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "I can't live here!",
+        "This is unacceptable, I'm sorry.",
+        "I'm not just some animal, I deserve better."
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/final/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "I'm done here.",
+        "That's it, I'm done living here."
+      ]
+    }
+  }
+]

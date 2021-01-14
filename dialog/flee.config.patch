@@ -1,0 +1,23 @@
+[
+  {
+    "op": "add",
+    "path": "/helpme/artisansdragonrace",
+    "value": {
+      "default": [
+        "Help!",
+        "Get it off of me!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/safe/artisansdragonrace",
+    "value": {
+      "default": [
+        "Safety at last!",
+        "Guess I should be more on guard.",
+        "I hope that doesn't happen again."
+      ]
+    }
+  }
+]

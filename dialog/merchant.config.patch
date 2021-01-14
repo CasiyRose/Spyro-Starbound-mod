@@ -1,0 +1,179 @@
+[  
+  {  
+    "op":"add",
+    "path":"/merchantStart/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "Care to trade? I have 'Pixels'.",
+        "Come look at my items for sale!",
+        "Want something? Come take a look.",
+        "I have things for sale.",
+        "Pixels traded here!"
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/merchantEnd/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "Farewell.",
+        "Have safe travels!",
+        "Come again soon!",
+        "Come back when you need something!",
+        "Okay, goodbye."
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/follow/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "Over here.",
+        "My shop's this way.",
+        "Follow me."
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/welcome/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "Does anything catch your eyes?",
+        "See anything that you like?",
+        "Want to trade for anything?"
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/helpme/artisansdragonrace",
+    "value":{  
+      "default":[  
+      "Aah, it's after me!",
+      "Help! I'm being attacked!",
+      "I'm under attack!"
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/helpthem/artisansdragonrace",
+    "value":{  
+      "default":[  
+      "They need help over there!",
+      "Someone help them!"
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/encourage/artisansdragonrace",
+    "value":{  
+      "default":[  
+      "Get 'em!",
+      "Scare them off!",
+      "Kill them! You can do it!",
+      "Get it out of here!"
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/safe/artisansdragonrace",
+    "value":{  
+      "default":[  
+      "I think I got away.",
+      "Phew!",
+      "A close call!",
+      "That was close..."
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/tout/dragon",
+    "value":{  
+      "default":[  
+	    "Buy my stuff!",
+	    "Shiny things for sale!",
+	    "Killer deals!",
+	    "I sell supplies!"
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/tagCriteria/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "Something's changed." 
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/enclosedArea/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "I don't have room to trade in.",
+        "I need more space than this..."
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/otherDeed/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "But I don't want to live with someone else.",
+        "Can't you put that in a different room?",
+        "Isn't this MY house though?",
+        "Am I the reason you're doing this?"
+      ]
+    }
+  },
+  {  
+     "op":"add",
+    "path":"/severe/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "I can't live here!",
+        "This is unacceptable, I'm sorry.",
+        "I'm not just some animal, I deserve better."
+      ]
+    }
+  },
+  {  
+     "op":"add",
+    "path":"/final/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "I'm done here.",
+        "That's it, I'm done living here."
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/beacon/artisansdragonrace",
+    "value":{  
+      "default":[
+        "Hello! I come with items to trade!",
+        "Ooo, where am I now?"
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/rent/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "Thanks for housing me!.",
+        "I appreciate your kindness, take this."
+      ]
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[  
+  {  
+    "op":"add",
+    "path":"/beacon/artisansdragonrace",
+    "value":{  
+      "default":[
+        "Hello!",
+        "Ooo, where am I now?"
+      ]
+    }
+  },
+  {  
+    "op":"add",
+    "path":"/rent/artisansdragonrace",
+    "value":{  
+      "default":[  
+        "Thanks for housing me!.",
+        "I appreciate your kindness, take this."
+      ]
+    }
+  }
+]
