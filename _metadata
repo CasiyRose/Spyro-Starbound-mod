@@ -1,0 +1,11 @@
+{
+  "author" : "Casiy_Rose",
+  "description" : "Work in Progress fix/continuation for the Spyro and Cynder playable race mod.\nI decided to pick up this mod after it was dropped over two years ago. I will continue to work on this mod to make it everything it had the potential to be!\n\nMy Fixes:\n\n-Character shows up regardless which personality is chosen.\n-More colors for the dragons! {The first few colors starting with Cynder are easter egg colors ;) }\n-Clothes in progress! The only ones so far are cosmetic, no armors coded yet.\n-Sparx may or may not be the ship pet...\n\nPlanned:\n\n-Make Sparx also the AI, or perhaps the Chronicler? Not sure yet.\n-More clothes\n-More armor\n-More poses/personalities\n-Emotes\n-Weapons (I need to study the code for them first)\n-Add Frackin' Universe things (like stats)\n-Flight tech, for everyone who wants them to fly. I might also add some kind of retro Charge Gate tech.\n-Figure out how to have a head and \"arms\" (probably end up being wings) instead of just a body.\n\nThe base sprites and basic code IS NOT MINE, it's Vipera's. All credit for the base mod go to them.\nThe base mod can also be found here: https://steamcommunity.com/sharedfiles/filedetails/?id=1594955441\n\n",
+  "friendlyName" : "Spyro-based Dragons",
+  "link" : "steam://url/CommunityFilePage/2358810574",
+  "name" : "Spyro & Cynder Race",
+  "priority" : 0,
+  "steamContentId" : "2358810574",
+  "tags" : "Species|Armor and Clothes",
+  "version" : "1.4+"
+}

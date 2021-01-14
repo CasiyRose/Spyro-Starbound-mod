@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/artisansdragonrace",
+		"value" : [
+		    "/ships/artisansdragonrace/artisansdragonracet0.structure",
+			"/ships/artisansdragonrace/artisansdragonracet1.structure",
+			"/ships/artisansdragonrace/artisansdragonracet2.structure",
+			"/ships/artisansdragonrace/artisansdragonracet3.structure",
+			"/ships/artisansdragonrace/artisansdragonracet4.structure",
+			"/ships/artisansdragonrace/artisansdragonracet5.structure",
+			"/ships/artisansdragonrace/artisansdragonracet6.structure",
+			"/ships/artisansdragonrace/artisansdragonracet7.structure",
+			"/ships/artisansdragonrace/artisansdragonracet8.structure"
+		]
+	}
+]

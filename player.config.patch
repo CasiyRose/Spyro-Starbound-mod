@@ -1,0 +1,12 @@
+[
+	{ 
+	"op" : "add",
+	"path" : "/defaultCodexes/artisansdragonrace", 
+	"value" : [ "protectorate1", "protectorate2", "artisansdragonracediary" ] 
+	},
+	{
+    "op": "add",
+    "path": "/defaultBlueprints/tier1/-",
+    "value": { "item": "flighttech" }
+	}
+]
